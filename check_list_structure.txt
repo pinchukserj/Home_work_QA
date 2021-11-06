@@ -1,0 +1,8 @@
+1.	Purpose
+2.	Assumptions
+3.	Variant Uses 
+4.	Definition of Priority Levels
+5.	Checklist Coverage Definition
+6.	Criteria for Pass/Fail Statuses
+7.	Checklist Body
+
